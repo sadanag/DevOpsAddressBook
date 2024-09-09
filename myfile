@@ -28,7 +28,7 @@ pipeline {
       }
     stage('Webhook'){
     steps {
-      echo 'Build triggered using webhook successfully...'
+      echo 'Build triggered using webhook successfully..'
       }
       }
       }
