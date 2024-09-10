@@ -31,5 +31,10 @@ pipeline {
               echo 'Build triggered using webhook successfully..'
             }
         }
+        stage('Test'){
+            steps {
+              echo 'Testing if the webhook triggered successfully or not..'
+            }
+        }
     }
 }
