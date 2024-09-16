@@ -36,6 +36,7 @@ pipeline {
             steps {
               echo 'Testing if the webhook triggered successfully or not..'
               echo 'Done...'
+              echo 'Hello'
             }
         }
     }
