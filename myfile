@@ -38,7 +38,7 @@ pipeline {
               echo 'Done...'
               echo 'Trigger Check...'
               echo 'Trigger Check...1'
-echo 'Trigger Check...1'
+echo 'Presenting...'
             }
         }
     }
