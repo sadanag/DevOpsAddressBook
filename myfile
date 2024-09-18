@@ -43,6 +43,7 @@ pipeline {
 =======
 echo 'Presenting...'
 >>>>>>> 52216cdb108411d4af4ae16272f6a77a422e723e
+echo 'hello'
             }
         }
     }
